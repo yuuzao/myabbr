@@ -1,0 +1,19 @@
+[[abbr]]
+name = "pp"
+raw = "proposal"
+meaning = """
+   'pp' is used to mark an idea when it comes into your mind but you're not so
+   sure about it.
+"""
+
+# seems no necessary...
+[[abbr]]
+name = "pp+"
+raw = "better proposal"
+meaning = """
+    'pp+' marks an propoal as a better one, but you're still not sure.
+"""
+
+[[abbr]]
+name = "td"
+raw = "todo"
