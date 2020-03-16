@@ -17,3 +17,10 @@ meaning = """
 [[abbr]]
 name = "td"
 raw = "todo"
+
+[[abbr]]
+name = "dpd"
+raw = "dropped"
+meaning = """
+	it means an idea was dropped or depreciated for some reson.
+"""
